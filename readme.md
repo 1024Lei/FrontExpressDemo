@@ -1,4 +1,6 @@
 # express web容器
+## 使用方法
+
 ## 工程目录：
  - router：加载静态页面逻辑（express启动入口）
  - views：静态页面根目录
@@ -12,6 +14,9 @@
 	提供前端研发集成阶段成果物的运行环境
 
 ## 运行
+	git clone https://github.com/1024Lei/FrontExpressDemo.git
+	cd FrontExpressDemo
+	npm install
 	npm start
 ## 运行(静默)
 	nohup npm start &

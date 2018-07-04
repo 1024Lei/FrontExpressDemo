@@ -1,0 +1,16 @@
+{
+  "name": "frontExpress",
+  "version": "0.0.1",
+  "author": "zh.l-neu",
+  "private": false,
+  "scripts": {
+    "start": "nodemon router/index.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}

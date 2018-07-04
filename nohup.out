@@ -1,0 +1,62 @@
+
+> moduleserver@0.0.0 start /Users/tomisacat/Desktop/PICC/FrontExpress
+> nodemon router/index.js
+
+[33m[nodemon] 1.17.5[39m
+[33m[nodemon] reading config ./nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] or send SIGHUP to 97766 to restart[39m
+[33m[nodemon] ignoring: .git .svn node_modules/**/node_modules[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node --harmony router/index.js`[39m
+[33m[nodemon] spawning[39m
+[33m[nodemon] child pid: 97768[39m
+[33m[nodemon] watching 25 files[39m
+Express started on port 3000
+Relate Modules : demo2,demo3
+
+> moduleserver@0.0.0 start /Users/tomisacat/Desktop/PICC/FrontExpress
+> nodemon router/index.js
+
+[33m[nodemon] 1.17.5[39m
+[33m[nodemon] reading config ./nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] or send SIGHUP to 97782 to restart[39m
+[33m[nodemon] ignoring: .git .svn node_modules/**/node_modules[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node --harmony router/index.js`[39m
+[33m[nodemon] spawning[39m
+[33m[nodemon] child pid: 97784[39m
+[33m[nodemon] watching 25 files[39m
+Express started on port 3000
+Relate Modules : demo2,demo3
+
+> moduleserver@0.0.0 start /Users/tomisacat/Desktop/PICC/FrontExpress
+> nodemon router/index.js
+
+[33m[nodemon] 1.17.5[39m
+[33m[nodemon] reading config ./nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] or send SIGHUP to 97804 to restart[39m
+[33m[nodemon] ignoring: .git .svn node_modules/**/node_modules[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node --harmony router/index.js`[39m
+[33m[nodemon] spawning[39m
+[33m[nodemon] child pid: 97806[39m
+[33m[nodemon] watching 25 files[39m
+Express started on port 3000
+Relate Modules : demo2,demo3
+[33m[nodemon] files triggering change check: read.md[39m
+[33m[nodemon] matched rule: **/*.*[39m
+[33m[nodemon] changes after filters (before/after): 1/0[39m
+[33m[nodemon] exiting[39m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read EIO
+    at _errnoException (util.js:992:11)
+    at TTY.onread (net.js:618:25)
